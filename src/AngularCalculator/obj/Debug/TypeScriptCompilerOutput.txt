@@ -1,0 +1,12 @@
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js.map
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js.map
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js.map
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js.map
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\app.js.map
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js
+C:\Users\marlon.smith\Documents\Visual Studio 2015\Projects\AngularCalculator\src\AngularCalculator\wwwroot\ngApp\CalculatorController.js.map

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{35163FE0-DDE2-4971-A6F0-59695C9F43C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A76DCCB5-940A-4B4A-9664-FFA80E3F2A75}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AngularCalculator", "src\AngularCalculator\AngularCalculator.xproj", "{444B2939-8F36-4CD5-BC3D-EC589F3F9B38}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EventHandle", "..\EventHandle\src\EventHandle\EventHandle.xproj", "{0443B388-4510-4B8C-A163-7AD449860D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444B2939-8F36-4CD5-BC3D-EC589F3F9B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444B2939-8F36-4CD5-BC3D-EC589F3F9B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444B2939-8F36-4CD5-BC3D-EC589F3F9B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444B2939-8F36-4CD5-BC3D-EC589F3F9B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0443B388-4510-4B8C-A163-7AD449860D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0443B388-4510-4B8C-A163-7AD449860D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0443B388-4510-4B8C-A163-7AD449860D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0443B388-4510-4B8C-A163-7AD449860D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{444B2939-8F36-4CD5-BC3D-EC589F3F9B38} = {35163FE0-DDE2-4971-A6F0-59695C9F43C9}
+	EndGlobalSection
+EndGlobal

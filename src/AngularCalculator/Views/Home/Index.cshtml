@@ -1,0 +1,23 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" ng-app="MyCalculator">
+<head>
+    <title></title>
+</head>
+
+<body ng-controller="CalculatorController as calculator">
+    
+    <input name="num1" ng-model="calculator.firstNumber"/>
+    <input name="num2" ng-model="calculator.secondNumber"/>
+
+    <button ng-click="calculator.Calc('+')">+</button>
+    <button ng-click="calculator.Calc('-')">-</button>
+    <button ng-click="calculator.Calc('*')">*</button>
+    <button ng-click="calculator.Calc('/')">/</button>
+
+    {{calculator.result}}
+
+    <script src="~/lib/angular/angular.js"></script>
+    <script src="~/ngApp/app.js"></script>
+    <script src="~/ngApp/CalculatorController.js"></script>
+</body>
+
+</html>
